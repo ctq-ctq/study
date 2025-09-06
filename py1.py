@@ -21,4 +21,4 @@
 # name='bingbing'
 # age=18
 # print(f"我的名字是{name}，我今年{age}岁了")
-print(1+1)
+print(1+1+1)
